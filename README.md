@@ -14,6 +14,6 @@
 |Piscine| [Rush00](https://github.com/brayans22/42-Barcelona---Piscine/tree/main/Rushes/Rush00/ex00) | C | Matrix | 120% |
 |Piscine| [Rush01](https://github.com/brayans22/42-Barcelona---Piscine/tree/main/Rushes/Rush01/ex00) | C | Backtraking | 78% |
 |Piscine| [Rush02](https://github.com/brayans22/42-Barcelona---Piscine/tree/main/Rushes/Rush02/ex00) | C | C + Makefile | 0% |
-|Piscine| [Shell00](https://github.com/brayans22/42-Barcelona---Piscine/tree/main/Shell/Shell00) | C | Backtraking | 50% |
-|Piscine| [Shell01](https://github.com/brayans22/42-Barcelona---Piscine/tree/main/Shell/Shell01) | C | C + Makefile | 55% |
+|Piscine| [Shell00](https://github.com/brayans22/42-Barcelona---Piscine/tree/main/Shell/Shell00) | C | Bash | 50% |
+|Piscine| [Shell01](https://github.com/brayans22/42-Barcelona---Piscine/tree/main/Shell/Shell01) | C | Bash | 55% |
 --
